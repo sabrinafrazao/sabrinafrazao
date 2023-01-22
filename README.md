@@ -1,4 +1,4 @@
-### Olá!       Eu sua a Sabrina Frazão
+### Olá!       Eu sou a Sabrina Frazão
 
 
 - 🌱  Estudando : Analise  de dados e Python.
