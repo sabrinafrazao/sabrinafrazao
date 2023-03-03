@@ -1,7 +1,7 @@
 ### Olá!       Eu sou a Sabrina Frazão
 
 
-- 🌱  Estudando : Analise  de dados e Python.
+- 🌱  Estudando :  Python.
 - 🧑‍💻  Cursando Engenharia de Software.
 
 <div align="center">
