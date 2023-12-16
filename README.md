@@ -1,7 +1,7 @@
 ### Olá!     👩🏽  Eu sou a Sabrina Frazão
 
 
-- 🌱  Estudando :  Python, Django.
+- 🌱  Estudando :  Python, visão computacional e angular.
 - 💻  Cursando Engenharia de Software.
 
 <div align="center">
