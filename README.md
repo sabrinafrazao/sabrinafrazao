@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
      <p align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,django,c" />
+        <img src="https://skillicons.dev/icons?i=py,django,git,linux " />
       </a>
     </p>
 </div>
